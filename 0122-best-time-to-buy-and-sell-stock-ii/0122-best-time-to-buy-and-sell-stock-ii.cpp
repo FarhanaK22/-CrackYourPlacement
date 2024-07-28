@@ -13,7 +13,7 @@ public:
                 buy = sell;
             } 
            
-            if(prices[i]<buy)
+            if(prices[i]<buy && i<prices.size()-1)
             {
                 buy = prices [i];
                 sell = buy;
