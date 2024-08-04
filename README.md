@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0079-word-search) |
 ## Backtracking
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
