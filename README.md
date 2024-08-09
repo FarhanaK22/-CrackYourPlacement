@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0289-game-of-life) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [1622-max-value-of-equation](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
 |  |
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/FarhanaK22/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
