@@ -1,0 +1,25 @@
+class Solution {
+public:
+    bool check(string s,int &i, int &j)
+    {
+        while(i<j && s[i] ==s[j])
+        {
+            i++;
+            j--;
+        }
+        
+        return (i>=j)? true : false;
+
+    }
+    bool validPalindrome(string s) {
+        int n = s.size();
+        int i =0;
+        int j =n-1;
+        if(!check(s,i,j))
+        {int k = i+1, l = j-1;
+            if(!check(s,k,j) && !check(s,i,l))
+            return false;
+        }
+        return true;
+    }
+};
